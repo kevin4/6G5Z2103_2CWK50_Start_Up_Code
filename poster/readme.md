@@ -1,2 +1,2 @@
-# 2CWK50_6G5Z2103_Games_Source
+# 2CWK50_6G5Z2103_Poster
 # this is where you copy your group poster file
